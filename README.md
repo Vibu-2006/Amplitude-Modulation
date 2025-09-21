@@ -76,15 +76,18 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 
 Program
 
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d6b6ab30-322b-47cf-9999-b4389f3e33c5" />
 
 
 Output Waveform
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/a69a9bb9-bd95-4343-90d9-cbf8887f0d28" />
 
 
 
 
 
 TABULATION:
+![WhatsApp Image 2025-09-21 at 13 34 59_edc43148](https://github.com/user-attachments/assets/5b11ea7f-b87f-493c-ab9c-6acdbf12f68a)
 
 
 
